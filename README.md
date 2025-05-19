@@ -1,4 +1,4 @@
- 💫 About Me:
+## 💫 About Me:
 🔭 I'm currently working in the IC design field, specializing in Design Verification and RTL design.<br>🏫 I’m currently learning at University of Information Technology, VNU - HCM City.<br>🧑‍💻 I'm also a Design Verification Engineer at Truechip Solutions.<br>👀 I’m interested in RTL, FPGA Design, Computer Architecture, DDR5 Architecture, RISC-V, etc.
 
 
